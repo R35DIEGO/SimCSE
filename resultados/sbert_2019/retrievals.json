@@ -1,0 +1,118 @@
+[
+  {
+    "query": "A man with a hard hat is dancing.",
+    "paired_sentence": "A man wearing a hard hat is dancing.",
+    "human_score": 5.0,
+    "pair_cosine": 0.9972984194755554,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A man wearing a hard hat is dancing.",
+        "cosine": 0.9972983598709106
+      },
+      {
+        "sentence": "Three men are dancing.",
+        "cosine": 0.8855190873146057
+      },
+      {
+        "sentence": "A man is dancing.",
+        "cosine": 0.8665176033973694
+      },
+      {
+        "sentence": "A man and two boys are bouncing on a trampoline.",
+        "cosine": 0.7645270824432373
+      },
+      {
+        "sentence": "A man is skating down a set of stairs.",
+        "cosine": 0.750903308391571
+      }
+    ]
+  },
+  {
+    "query": "People are playing cricket.",
+    "paired_sentence": "Men are playing cricket.",
+    "human_score": 3.2,
+    "pair_cosine": 0.8932697772979736,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "The cricket player hit the ball.",
+        "cosine": 0.9099788665771484
+      },
+      {
+        "sentence": "Men are playing cricket.",
+        "cosine": 0.8932697772979736
+      },
+      {
+        "sentence": "People are playing baseball.",
+        "cosine": 0.7456547021865845
+      },
+      {
+        "sentence": "The movement of the ball in the air is called swing bowling.",
+        "cosine": 0.6663702726364136
+      },
+      {
+        "sentence": "Baseball players playing a game at the park.",
+        "cosine": 0.6344625949859619
+      }
+    ]
+  },
+  {
+    "query": "A woman is riding on a horse.",
+    "paired_sentence": "A man is turning over tables in anger.",
+    "human_score": 0.0,
+    "pair_cosine": 0.0009768372401595116,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A woman is riding a horse.",
+        "cosine": 0.9953425526618958
+      },
+      {
+        "sentence": "A girl is riding a horse.",
+        "cosine": 0.991424560546875
+      },
+      {
+        "sentence": "A woman equestrian riding a horse.",
+        "cosine": 0.9716137051582336
+      },
+      {
+        "sentence": "A woman is riding a horse along a perimeter.",
+        "cosine": 0.9429032802581787
+      },
+      {
+        "sentence": "The girl trotted the horse.",
+        "cosine": 0.8809516429901123
+      }
+    ]
+  },
+  {
+    "query": "The man is buttering the bread.",
+    "paired_sentence": "The man is stirring the rice.",
+    "human_score": 0.4,
+    "pair_cosine": 0.8064913153648376,
+    "failure_candidate": true,
+    "neighbors": [
+      {
+        "sentence": "A man is buttering a piece of bread.",
+        "cosine": 0.9880995154380798
+      },
+      {
+        "sentence": "A man is eating bread.",
+        "cosine": 0.8727542757987976
+      },
+      {
+        "sentence": "The man is stirring the rice.",
+        "cosine": 0.8064913153648376
+      },
+      {
+        "sentence": "A man is stirring ingredients in a bowl.",
+        "cosine": 0.8062205910682678
+      },
+      {
+        "sentence": "A man is beating two eggs in a bowl with a fork.",
+        "cosine": 0.7885540723800659
+      }
+    ]
+  }
+]

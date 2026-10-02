@@ -1,0 +1,118 @@
+[
+  {
+    "query": "A man with a hard hat is dancing.",
+    "paired_sentence": "A man wearing a hard hat is dancing.",
+    "human_score": 5.0,
+    "pair_cosine": 0.9983808994293213,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A man wearing a hard hat is dancing.",
+        "cosine": 0.9983807802200317
+      },
+      {
+        "sentence": "A man is dancing.",
+        "cosine": 0.8299988508224487
+      },
+      {
+        "sentence": "The man is wearing a black shirt and hat and smiling.",
+        "cosine": 0.7541221380233765
+      },
+      {
+        "sentence": "A man is performing a stunt outdoors.",
+        "cosine": 0.7293787598609924
+      },
+      {
+        "sentence": "A man is doing a card trick.",
+        "cosine": 0.7164280414581299
+      }
+    ]
+  },
+  {
+    "query": "People are playing cricket.",
+    "paired_sentence": "Men are playing cricket.",
+    "human_score": 3.2,
+    "pair_cosine": 0.851940393447876,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "The Laws of Cricket say that you can declare any innings, no matter what the agreed length is.",
+        "cosine": 0.8972105979919434
+      },
+      {
+        "sentence": "People are playing baseball.",
+        "cosine": 0.8665043115615845
+      },
+      {
+        "sentence": "This is the rule if the runs scored by two teams in Super Over is equal...",
+        "cosine": 0.856730580329895
+      },
+      {
+        "sentence": "Men are playing cricket.",
+        "cosine": 0.8519404530525208
+      },
+      {
+        "sentence": "The cricket player hit the ball.",
+        "cosine": 0.8495841026306152
+      }
+    ]
+  },
+  {
+    "query": "A woman is riding on a horse.",
+    "paired_sentence": "A man is turning over tables in anger.",
+    "human_score": 0.0,
+    "pair_cosine": 0.20851242542266846,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A woman is riding a horse.",
+        "cosine": 0.9982146620750427
+      },
+      {
+        "sentence": "The woman is riding on the brown horse.",
+        "cosine": 0.9891775846481323
+      },
+      {
+        "sentence": "A woman equestrian riding a horse.",
+        "cosine": 0.9841074347496033
+      },
+      {
+        "sentence": "A woman with a white horse.",
+        "cosine": 0.9757170081138611
+      },
+      {
+        "sentence": "A woman leading a white horse.",
+        "cosine": 0.9639989137649536
+      }
+    ]
+  },
+  {
+    "query": "6.4-magnitude quake strikes off Indonesia",
+    "paired_sentence": "6.9-magnitude quake strikes off Russia's Kuril Islands",
+    "human_score": 1.0,
+    "pair_cosine": 0.9759858250617981,
+    "failure_candidate": true,
+    "neighbors": [
+      {
+        "sentence": "6.9-magnitude quake strikes off Russia's Kuril Islands",
+        "cosine": 0.9759858846664429
+      },
+      {
+        "sentence": "Moderate earthquake hits southern Pakistan",
+        "cosine": 0.9556642770767212
+      },
+      {
+        "sentence": "Moderate earthquake jolts NW Pakistan",
+        "cosine": 0.9406098127365112
+      },
+      {
+        "sentence": "At least 150 dead as strong quake hits southwest Balochistan",
+        "cosine": 0.938475489616394
+      },
+      {
+        "sentence": "Tornadoes level homes in Oklahoma, 1 dead",
+        "cosine": 0.9029511213302612
+      }
+    ]
+  }
+]

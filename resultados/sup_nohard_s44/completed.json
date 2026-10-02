@@ -1,0 +1,19 @@
+{
+  "seed": 44,
+  "batch_size": 64,
+  "temperature": 0.05,
+  "epochs": 1,
+  "dropout": 0.1,
+  "eval_steps": 250,
+  "name": "sup_nohard_s44",
+  "mode": "sup",
+  "lr": 5e-05,
+  "same_mask": false,
+  "hard_negatives": false,
+  "dev": {
+    "spearman": 76.0516066910251,
+    "alignment": 0.096225805580616,
+    "uniformity": -2.090043544769287
+  },
+  "seconds": 204.85531210899353
+}

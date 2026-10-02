@@ -1,0 +1,118 @@
+[
+  {
+    "query": "A man with a hard hat is dancing.",
+    "paired_sentence": "A man wearing a hard hat is dancing.",
+    "human_score": 5.0,
+    "pair_cosine": 0.9977173209190369,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A man wearing a hard hat is dancing.",
+        "cosine": 0.9977173209190369
+      },
+      {
+        "sentence": "A man is dancing.",
+        "cosine": 0.8950909376144409
+      },
+      {
+        "sentence": "A man is performing a stunt outdoors.",
+        "cosine": 0.7154065370559692
+      },
+      {
+        "sentence": "A man is dancing in the rain.",
+        "cosine": 0.699005126953125
+      },
+      {
+        "sentence": "A man is on a roof dancing.",
+        "cosine": 0.697171688079834
+      }
+    ]
+  },
+  {
+    "query": "People are playing cricket.",
+    "paired_sentence": "Men are playing cricket.",
+    "human_score": 3.2,
+    "pair_cosine": 0.8902336359024048,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "The Laws of Cricket say that you can declare any innings, no matter what the agreed length is.",
+        "cosine": 0.8902796506881714
+      },
+      {
+        "sentence": "Men are playing cricket.",
+        "cosine": 0.8902336359024048
+      },
+      {
+        "sentence": "Yes a team can use the same player for both bowling and batting in a super over.",
+        "cosine": 0.880493700504303
+      },
+      {
+        "sentence": "There's no rule that decides which players can be picked for bowling/batting in the Super Over.",
+        "cosine": 0.8727065324783325
+      },
+      {
+        "sentence": "Both of these styles of bowling are performed by bowlers who are medium pace or fast bowlers.",
+        "cosine": 0.8618971705436707
+      }
+    ]
+  },
+  {
+    "query": "A woman is riding on a horse.",
+    "paired_sentence": "A man is turning over tables in anger.",
+    "human_score": 0.0,
+    "pair_cosine": 0.22457176446914673,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A woman is riding a horse.",
+        "cosine": 0.9980156421661377
+      },
+      {
+        "sentence": "The woman is riding on the brown horse.",
+        "cosine": 0.9947711825370789
+      },
+      {
+        "sentence": "A woman equestrian riding a horse.",
+        "cosine": 0.9782000780105591
+      },
+      {
+        "sentence": "A woman with a white horse.",
+        "cosine": 0.9738354086875916
+      },
+      {
+        "sentence": "A woman leading a white horse.",
+        "cosine": 0.9615967869758606
+      }
+    ]
+  },
+  {
+    "query": "6.4-magnitude quake strikes off Indonesia",
+    "paired_sentence": "6.9-magnitude quake strikes off Russia's Kuril Islands",
+    "human_score": 1.0,
+    "pair_cosine": 0.9716293811798096,
+    "failure_candidate": true,
+    "neighbors": [
+      {
+        "sentence": "6.9-magnitude quake strikes off Russia's Kuril Islands",
+        "cosine": 0.9716293811798096
+      },
+      {
+        "sentence": "Moderate earthquake hits southern Pakistan",
+        "cosine": 0.934339702129364
+      },
+      {
+        "sentence": "Moderate earthquake jolts NW Pakistan",
+        "cosine": 0.9107759594917297
+      },
+      {
+        "sentence": "At least 150 dead as strong quake hits southwest Balochistan",
+        "cosine": 0.8858720064163208
+      },
+      {
+        "sentence": "Hundreds dead or injured in China quake",
+        "cosine": 0.8401654958724976
+      }
+    ]
+  }
+]
