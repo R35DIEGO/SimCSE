@@ -1,0 +1,19 @@
+{
+  "seed": 43,
+  "batch_size": 64,
+  "temperature": 0.05,
+  "epochs": 1,
+  "dropout": 0.1,
+  "eval_steps": 250,
+  "name": "unsup_same_mask_s43",
+  "mode": "unsup",
+  "lr": 3e-05,
+  "same_mask": true,
+  "hard_negatives": false,
+  "dev": {
+    "spearman": 69.32861048230346,
+    "alignment": 0.3601301312446594,
+    "uniformity": -2.8389854431152344
+  },
+  "seconds": 829.3856632709503
+}

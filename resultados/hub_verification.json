@@ -1,0 +1,13 @@
+{
+  "repo_id": "Perry-DLC/upy-u2t02-simcse",
+  "expected": {
+    "spearman": 69.84138558926836,
+    "alignment": 0.2273658961057663,
+    "uniformity": -2.3765439987182617
+  },
+  "reloaded": {
+    "spearman": 69.841380171436,
+    "alignment": 0.2273658961057663,
+    "uniformity": -2.3765439987182617
+  }
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "query": "A man with a hard hat is dancing.",
+    "paired_sentence": "A man wearing a hard hat is dancing.",
+    "human_score": 5.0,
+    "pair_cosine": 0.975630521774292,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A man wearing a hard hat is dancing.",
+        "cosine": 0.9756304621696472
+      },
+      {
+        "sentence": "A man is on a roof dancing.",
+        "cosine": 0.8092594146728516
+      },
+      {
+        "sentence": "A man is dancing.",
+        "cosine": 0.8069807291030884
+      },
+      {
+        "sentence": "A woman is dancing.",
+        "cosine": 0.8045122623443604
+      },
+      {
+        "sentence": "A man is dancing in the rain.",
+        "cosine": 0.739679217338562
+      }
+    ]
+  },
+  {
+    "query": "People are playing cricket.",
+    "paired_sentence": "Men are playing cricket.",
+    "human_score": 3.2,
+    "pair_cosine": 0.8121144771575928,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "Men are playing cricket.",
+        "cosine": 0.8121144771575928
+      },
+      {
+        "sentence": "People are playing baseball.",
+        "cosine": 0.7458369731903076
+      },
+      {
+        "sentence": "A tiger club is playing with a ball.",
+        "cosine": 0.675302267074585
+      },
+      {
+        "sentence": "A man is playing soccer.",
+        "cosine": 0.6410225033760071
+      },
+      {
+        "sentence": "Two men are playing table tennis.",
+        "cosine": 0.6329286098480225
+      }
+    ]
+  },
+  {
+    "query": "A woman is riding on a horse.",
+    "paired_sentence": "A man is turning over tables in anger.",
+    "human_score": 0.0,
+    "pair_cosine": 0.2497345209121704,
+    "failure_candidate": false,
+    "neighbors": [
+      {
+        "sentence": "A woman is riding a horse.",
+        "cosine": 0.9515306353569031
+      },
+      {
+        "sentence": "A man is riding on a horse.",
+        "cosine": 0.9297164678573608
+      },
+      {
+        "sentence": "A girl is riding a horse.",
+        "cosine": 0.8794988393783569
+      },
+      {
+        "sentence": "A boy is riding a horse.",
+        "cosine": 0.8206819891929626
+      },
+      {
+        "sentence": "A woman is riding an elephant.",
+        "cosine": 0.8071902394294739
+      }
+    ]
+  },
+  {
+    "query": "6.4-magnitude quake strikes off Indonesia",
+    "paired_sentence": "6.9-magnitude quake strikes off Russia's Kuril Islands",
+    "human_score": 1.0,
+    "pair_cosine": 0.9165852069854736,
+    "failure_candidate": true,
+    "neighbors": [
+      {
+        "sentence": "6.9-magnitude quake strikes off Russia's Kuril Islands",
+        "cosine": 0.9165853261947632
+      },
+      {
+        "sentence": "Moderate earthquake hits southern Pakistan",
+        "cosine": 0.772607147693634
+      },
+      {
+        "sentence": "Floods leave six dead in Philippines",
+        "cosine": 0.7421958446502686
+      },
+      {
+        "sentence": "Heavy rains leave 18 dead in Philippines",
+        "cosine": 0.726416826248169
+      },
+      {
+        "sentence": "At least 150 dead as strong quake hits southwest Balochistan",
+        "cosine": 0.7018886804580688
+      }
+    ]
+  }
+]

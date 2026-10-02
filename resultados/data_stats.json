@@ -1,0 +1,7 @@
+{
+  "records": 100000,
+  "unique_sentences": 165529,
+  "entailments": 33351,
+  "with_hard_negative": 9488,
+  "sha256": "0927a0b1d2a447b9236fd9699d6a37a4a3542c5def178d701de1c38827997f88"
+}

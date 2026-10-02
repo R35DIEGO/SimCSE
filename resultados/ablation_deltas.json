@@ -1,0 +1,16 @@
+[
+  {
+    "mode": "unsup",
+    "baseline": "unsup_s42",
+    "ablation": "unsup_same_mask_s42",
+    "dev_delta": -14.423784666938374,
+    "test_delta": -16.703535913782737
+  },
+  {
+    "mode": "sup",
+    "baseline": "sup_hard_s42",
+    "ablation": "sup_nohard_s42",
+    "dev_delta": -0.7484532679937104,
+    "test_delta": 0.026507540834515453
+  }
+]
